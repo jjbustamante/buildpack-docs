@@ -3,7 +3,7 @@
   "name" : "Name",
   "description" : "Description",
   "revision" : 0,
-  "lastModifiedDate" : "2022-02-03T18:19:13Z",
+  "lastModifiedDate" : "2022-02-08T20:54:59Z",
   "lastModifiedAgent" : "structurizr-web/2636/diagram",
   "properties" : {
     "structurizr.dsl" : "d29ya3NwYWNlIHsKCiAgICBtb2RlbCB7CgogICAgICAgICMgUGVyc29uIGRlZmluaXRpb24KICAgICAgICBkZXZlbG9wZXIgPSBwZXJzb24gIkRldmVsb3BlciIgIkluZGl2aWR1YWwgdGhhdCBjcmVhdGVzIGEgc29mdHdhcmUgb3IgYXBwbGljYXRpb24iCiAgICAgICAgb3BlcmF0b3IgPSBwZXJzb24gIk9wZXJhdG9yIiAiSVQgUGVyc29uIHRoYXQgY3JlYXRlcyBidWlsZGVycyB0byBzdGFuZGFyaXplIGluZnJhZXN0cnVjdHVyZSBpbiBhIG9yZ2FuaXphdGlvbiIKICAgICAgICBidWlsZHBhY2tBdXRob3IgPSBwZXJzb24gIkJ1aWxkcGFjayBBdXRob3JzIiAiUGVyc29uIG9yIE9yZ2FuaXphdGlvbiBjcmVhdGluZyBhbmQgbWFudGFpbmluZyBidWlsZHBhY2tzIgoKICAgICAgICByZWdpc3RyeVN5c3RlbSA9IHNvZnR3YXJlU3lzdGVtICJPQ0kgUmVnaXN0cnkiICIiICJzdG9yYWdlIgogICAgICAgIGRhZW1vbkVuZ2luZSA9IHNvZnR3YXJlU3lzdGVtICJEYWVtb24iCiAgICAgICAgCiAgICAgICAgYnVpbGRwYWNrRW50ZXJwcmlzZSA9IGVudGVycHJpc2UgIkJ1aWxkcGFja3MuaW8iIHsKICAgICAgICAgICAgbGlmZWN5Y2xlU3lzdGVtID0gc29mdHdhcmVTeXN0ZW0gIkxpZmVjeWNsZSIgewogICAgICAgICAgICAgICAgZGV0ZWN0b3JDb250YWluZXIgPSBjb250YWluZXIgImRldGVjdG9yIiAiZGVzYyIgImV4ZWN1dGFibGUiICJwaGFzZSIKICAgICAgICAgICAgICAgIGFuYWx5emVyQ29udGFpbmVyID0gY29udGFpbmVyICJhbmFseXplciIgImRlc2MiICJleGVjdXRhYmxlIiAicGhhc2UiCiAgICAgICAgICAgICAgICBidWlsZGVyQ29udGFpbmVyID0gY29udGFpbmVyICJidWlsZGVyIiAiZGVzYyIgImV4ZWN1dGFibGUiICJwaGFzZSIKICAgICAgICAgICAgICAgIGV4cG9ydGVyQ29udGFpbmVyID0gY29udGFpbmVyICJleHBvcnRlciIgImNyZWF0ZXMgYSBuZXcgT0NJIGltYWdlIHVzaW5nIGEgY29tYmluYXRpb24gb2YgcmVtb3RlIGxheWVycywgbG9jYWwgbGF5ZXJzLCBhbmQgdGhlIGFwcCBkaXJlY3RvcnkiICJleGVjdXRhYmxlIiAicGhhc2UiIHsKICAgICAgICAgICAgICAgICAgICAtPiByZWdpc3RyeVN5c3RlbSAicHVzaC9wdWxsIG9jaSBpbWFnZXMgdG8vZnJvbSIKICAgICAgICAgICAgICAgICAgICAtPiBkYWVtb25FbmdpbmUgInB1c2gvcHVsbCBvY2kgaW1hZ2VzIHRvL2Zyb20iCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0gICAKICAgICAgICAgICAgYnVpbGRlclN5c3RlbSA9IHNvZnR3YXJlU3lzdGVtICJCdWlsZGVyIgogICAgICAgICAgICBidWlsZHBhY2tTeXN0ZW0gPSBzb2Z0d2FyZVN5c3RlbSAiQnVpbGRwYWNrIgogICAgICAgICAgICBwbGF0Zm9ybVN5c3RlbSA9IHNvZnR3YXJlU3lzdGVtICJQbGF0Zm9ybSIgewogICAgICAgICAgICAgICAgLT4gYnVpbGRlclN5c3RlbSAicmVhZHMgYW5kIGV4dHJhY3RzIGxpZmVjeWNsZSBleGVjdXRhYmxlIgogICAgICAgICAgICAgICAgLT4gbGlmZWN5Y2xlU3lzdGVtICJleGVjdXRlcyBpdCBwcm92aWRpbmcgdGhlIGFwcGxpY2F0aW9uIHNvdXJjZSBjb2RlIGFuZCByZXRyaWV2ZSB0aGUgb2NpIGltYWdlIGxheW91dCB3aGVuIGlzIHJlcXVpcmVkIgogICAgICAgICAgICAgICAgLT4gZGV0ZWN0b3JDb250YWluZXIgImV4ZWN1dGVzIgogICAgICAgICAgICAgICAgLT4gYW5hbHl6ZXJDb250YWluZXIgImV4ZWN1dGVzIgogICAgICAgICAgICAgICAgLT4gYnVpbGRlckNvbnRhaW5lciAiZXhlY3V0ZXMiCiAgICAgICAgICAgICAgICAtPiBleHBvcnRlckNvbnRhaW5lciAiZXhlY3V0ZXMiCiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgICMgUGVyc29uIHJlbGF0aW9uc2hpcHMKICAgICAgICBkZXZlbG9wZXIgLT4gcGxhdGZvcm1TeXN0ZW0gInByb3ZpZGVzIGFwcGxpY2F0aW9uIHNvdXJjZSBjb2RlIHRvIGJ1aWxkIGFuIE9DSSBpbWFnZSIKICAgICAgICBvcGVyYXRvciAtPiBidWlsZGVyU3lzdGVtICJjcmVhdGVzIGJ1aWxkZXJzIGFuZCBzdGFja3MgYWNjb3JpZG5nIHRvIG9yZ2FuaXphdGlvbiBuZWVkcyIKICAgICAgICBidWlsZHBhY2tBdXRob3IgLT4gYnVpbGRwYWNrU3lzdGVtICJjcmVhdGVzIGJ1aWxkcGFja3MgZm9yIGRpZmZlcmVudCBwcm9ncmFtbWluZyBsYW5ndWFnZXMgKGxpa2UgcGFrZXRvKSIKCiAgICAgICAgIyBsaWZlY3ljbGUgcmVsYXRpb25zaGlwcwogICAgICAgIGxpZmVjeWNsZVN5c3RlbSAtPiByZWdpc3RyeVN5c3RlbSAicHVzaC9wdWxsIG9jaSBpbWFnZXMgdG8vZnJvbSIKICAgICAgICBsaWZlY3ljbGVTeXN0ZW0gLT4gZGFlbW9uRW5naW5lICJwdXNoL3B1bGwgb2NpIGltYWdlcyB0by9mcm9tIgoKICAgICAgICAjIEJ1aWxkZXIgcmVsYXRpb25zaGlwcwogICAgICAgIGJ1aWxkZXJTeXN0ZW0gLT4gbGlmZWN5Y2xlU3lzdGVtICJjb250YWlucyBhbiBpbXBsZW1lbnRhdGlvbiBvZiIKICAgICAgICBidWlsZGVyU3lzdGVtIC0+IGJ1aWxkcGFja1N5c3RlbSAiY29udGFpbnMgc2V2ZXJhbCIKCiAgICAgICAgIyBEYWVtb25zIHJlbGF0aW9uc2hpcHMKICAgICAgICBkYWVtb25FbmdpbmUgLT4gcmVnaXN0cnlTeXN0ZW0gInB1c2gvcHVsbCB0by9mcm9tIgogICAgfQoKCgogICAgdmlld3MgewoKICAgICAgICBzeXN0ZW1MYW5kc2NhcGUgIlN5c3RlbSIgewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICAgICAgYW5pbWF0aW9uIHsKCiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIGNvbnRhaW5lciBsaWZlY3ljbGVTeXN0ZW0gIkNvbnRhaW5lcnMiIHsKICAgICAgICAgICAgaW5jbHVkZSAqCiAgICAgICAgICAgIGluY2x1ZGUgcGxhdGZvcm1TeXN0ZW0KICAgICAgICAgICAgaW5jbHVkZSByZWdpc3RyeVN5c3RlbQogICAgICAgICAgICBpbmNsdWRlIGRhZW1vbkVuZ2luZQogICAgICAgIH0KCiAgICAgICAgc3R5bGVzIHsKICAgICAgICAgICAgZWxlbWVudCAic3RvcmFnZSIgewogICAgICAgICAgICAgICAgc2hhcGUgY3lsaW5kZXIKICAgICAgICAgICAgfQogICAgICAgIH0KCgogICAgICAgIHRoZW1lIGRlZmF1bHQKICAgIH0KCgp9Cg=="
@@ -60,93 +60,9 @@
       "defaultTags" : [ "Element", "Person" ]
     } ],
     "softwareSystems" : [ {
-      "id" : "17",
-      "tags" : "Element,Software System",
-      "name" : "Platform",
-      "relationships" : [ {
-        "id" : "19",
-        "tags" : "Relationship",
-        "sourceId" : "17",
-        "destinationId" : "6",
-        "description" : "executes it providing the application source code and retrieve the oci image layout when is required",
-        "defaultTags" : [ "Relationship" ]
-      }, {
-        "id" : "23",
-        "tags" : "Relationship",
-        "sourceId" : "17",
-        "destinationId" : "10",
-        "description" : "executes",
-        "defaultTags" : [ "Relationship" ]
-      }, {
-        "id" : "21",
-        "tags" : "Relationship",
-        "sourceId" : "17",
-        "destinationId" : "8",
-        "description" : "executes",
-        "defaultTags" : [ "Relationship" ]
-      }, {
-        "id" : "20",
-        "tags" : "Relationship",
-        "sourceId" : "17",
-        "destinationId" : "7",
-        "description" : "executes",
-        "defaultTags" : [ "Relationship" ]
-      }, {
-        "id" : "22",
-        "tags" : "Relationship",
-        "sourceId" : "17",
-        "destinationId" : "9",
-        "description" : "executes",
-        "defaultTags" : [ "Relationship" ]
-      }, {
-        "id" : "18",
-        "tags" : "Relationship",
-        "sourceId" : "17",
-        "destinationId" : "15",
-        "description" : "reads and extracts lifecycle executable",
-        "defaultTags" : [ "Relationship" ]
-      } ],
-      "location" : "Internal",
-      "defaultTags" : [ "Element", "Software System" ]
-    }, {
-      "id" : "15",
-      "tags" : "Element,Software System",
-      "name" : "Builder",
-      "relationships" : [ {
-        "id" : "28",
-        "tags" : "Relationship",
-        "sourceId" : "15",
-        "destinationId" : "16",
-        "description" : "contains several",
-        "defaultTags" : [ "Relationship" ]
-      }, {
-        "id" : "27",
-        "tags" : "Relationship",
-        "sourceId" : "15",
-        "destinationId" : "6",
-        "description" : "contains an implementation of",
-        "defaultTags" : [ "Relationship" ]
-      } ],
-      "location" : "Internal",
-      "defaultTags" : [ "Element", "Software System" ]
-    }, {
       "id" : "4",
       "tags" : "Element,Software System,storage",
       "name" : "OCI Registry",
-      "location" : "External",
-      "defaultTags" : [ "Element", "Software System" ]
-    }, {
-      "id" : "5",
-      "tags" : "Element,Software System",
-      "name" : "Daemon",
-      "relationships" : [ {
-        "id" : "29",
-        "tags" : "Relationship",
-        "sourceId" : "5",
-        "destinationId" : "4",
-        "description" : "push/pull to/from",
-        "defaultTags" : [ "Relationship" ]
-      } ],
       "location" : "External",
       "defaultTags" : [ "Element", "Software System" ]
     }, {
@@ -154,36 +70,22 @@
       "tags" : "Element,Software System",
       "name" : "Lifecycle",
       "relationships" : [ {
-        "id" : "14",
-        "tags" : "Relationship",
-        "sourceId" : "6",
-        "destinationId" : "5",
-        "description" : "push/pull oci images to/from",
-        "defaultTags" : [ "Relationship" ]
-      }, {
         "id" : "12",
         "tags" : "Relationship",
         "sourceId" : "6",
         "destinationId" : "4",
         "description" : "push/pull oci images to/from",
         "defaultTags" : [ "Relationship" ]
+      }, {
+        "id" : "14",
+        "tags" : "Relationship",
+        "sourceId" : "6",
+        "destinationId" : "5",
+        "description" : "push/pull oci images to/from",
+        "defaultTags" : [ "Relationship" ]
       } ],
       "location" : "Internal",
       "containers" : [ {
-        "id" : "7",
-        "tags" : "Element,Container,phase",
-        "name" : "detector",
-        "description" : "desc",
-        "technology" : "executable",
-        "defaultTags" : [ "Element", "Container" ]
-      }, {
-        "id" : "8",
-        "tags" : "Element,Container,phase",
-        "name" : "analyzer",
-        "description" : "desc",
-        "technology" : "executable",
-        "defaultTags" : [ "Element", "Container" ]
-      }, {
         "id" : "9",
         "tags" : "Element,Container,phase",
         "name" : "builder",
@@ -212,12 +114,110 @@
         } ],
         "technology" : "executable",
         "defaultTags" : [ "Element", "Container" ]
+      }, {
+        "id" : "8",
+        "tags" : "Element,Container,phase",
+        "name" : "analyzer",
+        "description" : "desc",
+        "technology" : "executable",
+        "defaultTags" : [ "Element", "Container" ]
+      }, {
+        "id" : "7",
+        "tags" : "Element,Container,phase",
+        "name" : "detector",
+        "description" : "desc",
+        "technology" : "executable",
+        "defaultTags" : [ "Element", "Container" ]
       } ],
       "defaultTags" : [ "Element", "Software System" ]
     }, {
       "id" : "16",
       "tags" : "Element,Software System",
       "name" : "Buildpack",
+      "location" : "Internal",
+      "defaultTags" : [ "Element", "Software System" ]
+    }, {
+      "id" : "5",
+      "tags" : "Element,Software System",
+      "name" : "Daemon",
+      "relationships" : [ {
+        "id" : "29",
+        "tags" : "Relationship",
+        "sourceId" : "5",
+        "destinationId" : "4",
+        "description" : "push/pull to/from",
+        "defaultTags" : [ "Relationship" ]
+      } ],
+      "location" : "External",
+      "defaultTags" : [ "Element", "Software System" ]
+    }, {
+      "id" : "15",
+      "tags" : "Element,Software System",
+      "name" : "Builder",
+      "relationships" : [ {
+        "id" : "27",
+        "tags" : "Relationship",
+        "sourceId" : "15",
+        "destinationId" : "6",
+        "description" : "contains an implementation of",
+        "defaultTags" : [ "Relationship" ]
+      }, {
+        "id" : "28",
+        "tags" : "Relationship",
+        "sourceId" : "15",
+        "destinationId" : "16",
+        "description" : "contains several",
+        "defaultTags" : [ "Relationship" ]
+      } ],
+      "location" : "Internal",
+      "defaultTags" : [ "Element", "Software System" ]
+    }, {
+      "id" : "17",
+      "tags" : "Element,Software System",
+      "name" : "Platform",
+      "relationships" : [ {
+        "id" : "18",
+        "tags" : "Relationship",
+        "sourceId" : "17",
+        "destinationId" : "15",
+        "description" : "reads and extracts lifecycle executable",
+        "defaultTags" : [ "Relationship" ]
+      }, {
+        "id" : "19",
+        "tags" : "Relationship",
+        "sourceId" : "17",
+        "destinationId" : "6",
+        "description" : "executes it providing the application source code and retrieve the oci image layout when is required",
+        "defaultTags" : [ "Relationship" ]
+      }, {
+        "id" : "23",
+        "tags" : "Relationship",
+        "sourceId" : "17",
+        "destinationId" : "10",
+        "description" : "executes",
+        "defaultTags" : [ "Relationship" ]
+      }, {
+        "id" : "20",
+        "tags" : "Relationship",
+        "sourceId" : "17",
+        "destinationId" : "7",
+        "description" : "executes",
+        "defaultTags" : [ "Relationship" ]
+      }, {
+        "id" : "22",
+        "tags" : "Relationship",
+        "sourceId" : "17",
+        "destinationId" : "9",
+        "description" : "executes",
+        "defaultTags" : [ "Relationship" ]
+      }, {
+        "id" : "21",
+        "tags" : "Relationship",
+        "sourceId" : "17",
+        "destinationId" : "8",
+        "description" : "executes",
+        "defaultTags" : [ "Relationship" ]
+      } ],
       "location" : "Internal",
       "defaultTags" : [ "Element", "Software System" ]
     } ]
@@ -353,9 +353,9 @@
       }, {
         "id" : "13"
       }, {
-        "id" : "11"
-      }, {
         "id" : "23"
+      }, {
+        "id" : "11"
       }, {
         "id" : "22"
       }, {
@@ -374,7 +374,7 @@
       },
       "themes" : [ "https://static.structurizr.com/themes/default/theme.json" ],
       "terminology" : { },
-      "lastSavedView" : "System"
+      "lastSavedView" : "Containers"
     }
   }
 }
