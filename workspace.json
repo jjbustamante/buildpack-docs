@@ -2,11 +2,9 @@
   "id" : 1,
   "name" : "Name",
   "description" : "Description",
-  "revision" : 0,
-  "lastModifiedDate" : "2022-02-14T20:31:30Z",
-  "lastModifiedAgent" : "structurizr-web/2636/diagram",
+  "lastModifiedDate" : "2022-02-28T22:32:19Z",
   "properties" : {
-    "structurizr.dsl" : "d29ya3NwYWNlIHsKCiAgICBtb2RlbCB7CgogICAgICAgICMgUGVyc29uIGRlZmluaXRpb24KICAgICAgICBkZXZlbG9wZXIgPSBwZXJzb24gIkRldmVsb3BlciIgIkluZGl2aWR1YWwgdGhhdCBjcmVhdGVzIGEgc29mdHdhcmUgb3IgYXBwbGljYXRpb24iCiAgICAgICAgb3BlcmF0b3IgPSBwZXJzb24gIk9wZXJhdG9yIiAiSVQgUGVyc29uIHRoYXQgY3JlYXRlcyBidWlsZGVycyB0byBzdGFuZGFyaXplIGluZnJhZXN0cnVjdHVyZSBpbiBhIG9yZ2FuaXphdGlvbiIKICAgICAgICBidWlsZHBhY2tBdXRob3IgPSBwZXJzb24gIkJ1aWxkcGFjayBBdXRob3JzIiAiUGVyc29uIG9yIE9yZ2FuaXphdGlvbiBjcmVhdGluZyBhbmQgbWFudGFpbmluZyBidWlsZHBhY2tzIgoKICAgICAgICByZWdpc3RyeVN5c3RlbSA9IHNvZnR3YXJlU3lzdGVtICJPQ0kgUmVnaXN0cnkiICIiICJzdG9yYWdlIgogICAgICAgIGRhZW1vbkVuZ2luZSA9IHNvZnR3YXJlU3lzdGVtICJEYWVtb24iCiAgICAgICAgCiAgICAgICAgYnVpbGRwYWNrRW50ZXJwcmlzZSA9IGVudGVycHJpc2UgIkJ1aWxkcGFja3MuaW8iIHsKICAgICAgICAgICAgbGlmZWN5Y2xlU3lzdGVtID0gc29mdHdhcmVTeXN0ZW0gIkxpZmVjeWNsZSIgewogICAgICAgICAgICAgICAgZGV0ZWN0b3JDb250YWluZXIgPSBjb250YWluZXIgImRldGVjdG9yIiAiZGVzYyIgImV4ZWN1dGFibGUiICJwaGFzZSIKICAgICAgICAgICAgICAgIGFuYWx5emVyQ29udGFpbmVyID0gY29udGFpbmVyICJhbmFseXplciIgImRlc2MiICJleGVjdXRhYmxlIiAicGhhc2UiCiAgICAgICAgICAgICAgICBidWlsZGVyQ29udGFpbmVyID0gY29udGFpbmVyICJidWlsZGVyIiAiZGVzYyIgImV4ZWN1dGFibGUiICJwaGFzZSIKICAgICAgICAgICAgICAgIGV4cG9ydGVyQ29udGFpbmVyID0gY29udGFpbmVyICJleHBvcnRlciIgImNyZWF0ZXMgYSBuZXcgT0NJIGltYWdlIHVzaW5nIGEgY29tYmluYXRpb24gb2YgcmVtb3RlIGxheWVycywgbG9jYWwgbGF5ZXJzLCBhbmQgdGhlIGFwcCBkaXJlY3RvcnkiICJleGVjdXRhYmxlIiAicGhhc2UiIHsKICAgICAgICAgICAgICAgICAgICAtPiByZWdpc3RyeVN5c3RlbSAicHVzaC9wdWxsIG9jaSBpbWFnZXMgdG8vZnJvbSIKICAgICAgICAgICAgICAgICAgICAtPiBkYWVtb25FbmdpbmUgInB1c2gvcHVsbCBvY2kgaW1hZ2VzIHRvL2Zyb20iCiAgICAgICAgICAgICAgICB9CiAgICAgICAgICAgIH0gICAKICAgICAgICAgICAgYnVpbGRlclN5c3RlbSA9IHNvZnR3YXJlU3lzdGVtICJCdWlsZGVyIgogICAgICAgICAgICBidWlsZHBhY2tTeXN0ZW0gPSBzb2Z0d2FyZVN5c3RlbSAiQnVpbGRwYWNrIgogICAgICAgICAgICBwbGF0Zm9ybVN5c3RlbSA9IHNvZnR3YXJlU3lzdGVtICJQbGF0Zm9ybSIgewogICAgICAgICAgICAgICAgLT4gYnVpbGRlclN5c3RlbSAicmVhZHMgYW5kIGV4dHJhY3RzIGxpZmVjeWNsZSBleGVjdXRhYmxlIgogICAgICAgICAgICAgICAgLT4gbGlmZWN5Y2xlU3lzdGVtICJleGVjdXRlcyBpdCBwcm92aWRpbmcgdGhlIGFwcGxpY2F0aW9uIHNvdXJjZSBjb2RlIGFuZCByZXRyaWV2ZSB0aGUgb2NpIGltYWdlIGxheW91dCB3aGVuIGlzIHJlcXVpcmVkIgogICAgICAgICAgICAgICAgLT4gZGV0ZWN0b3JDb250YWluZXIgImV4ZWN1dGVzIgogICAgICAgICAgICAgICAgLT4gYW5hbHl6ZXJDb250YWluZXIgImV4ZWN1dGVzIgogICAgICAgICAgICAgICAgLT4gYnVpbGRlckNvbnRhaW5lciAiZXhlY3V0ZXMiCiAgICAgICAgICAgICAgICAtPiBleHBvcnRlckNvbnRhaW5lciAiZXhlY3V0ZXMiCiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgICMgUGVyc29uIHJlbGF0aW9uc2hpcHMKICAgICAgICBkZXZlbG9wZXIgLT4gcGxhdGZvcm1TeXN0ZW0gInByb3ZpZGVzIGFwcGxpY2F0aW9uIHNvdXJjZSBjb2RlIHRvIGJ1aWxkIGFuIE9DSSBpbWFnZSIKICAgICAgICBvcGVyYXRvciAtPiBidWlsZGVyU3lzdGVtICJjcmVhdGVzIGJ1aWxkZXJzIGFuZCBzdGFja3MgYWNjb3JpZG5nIHRvIG9yZ2FuaXphdGlvbiBuZWVkcyIKICAgICAgICBidWlsZHBhY2tBdXRob3IgLT4gYnVpbGRwYWNrU3lzdGVtICJjcmVhdGVzIGJ1aWxkcGFja3MgZm9yIGRpZmZlcmVudCBwcm9ncmFtbWluZyBsYW5ndWFnZXMgKGxpa2UgcGFrZXRvKSIKCiAgICAgICAgIyBsaWZlY3ljbGUgcmVsYXRpb25zaGlwcwogICAgICAgIGxpZmVjeWNsZVN5c3RlbSAtPiByZWdpc3RyeVN5c3RlbSAicHVzaC9wdWxsIG9jaSBpbWFnZXMgdG8vZnJvbSIKICAgICAgICBsaWZlY3ljbGVTeXN0ZW0gLT4gZGFlbW9uRW5naW5lICJwdXNoL3B1bGwgb2NpIGltYWdlcyB0by9mcm9tIgoKICAgICAgICAjIEJ1aWxkZXIgcmVsYXRpb25zaGlwcwogICAgICAgIGJ1aWxkZXJTeXN0ZW0gLT4gbGlmZWN5Y2xlU3lzdGVtICJjb250YWlucyBhbiBpbXBsZW1lbnRhdGlvbiBvZiIKICAgICAgICBidWlsZGVyU3lzdGVtIC0+IGJ1aWxkcGFja1N5c3RlbSAiY29udGFpbnMgc2V2ZXJhbCIKCiAgICAgICAgIyBEYWVtb25zIHJlbGF0aW9uc2hpcHMKICAgICAgICBkYWVtb25FbmdpbmUgLT4gcmVnaXN0cnlTeXN0ZW0gInB1c2gvcHVsbCB0by9mcm9tIgogICAgfQoKCgogICAgdmlld3MgewoKICAgICAgICBzeXN0ZW1MYW5kc2NhcGUgIlN5c3RlbSIgewogICAgICAgICAgICBpbmNsdWRlICoKICAgICAgICAgICAgYW5pbWF0aW9uIHsKCiAgICAgICAgICAgIH0KICAgICAgICB9CgogICAgICAgIGNvbnRhaW5lciBsaWZlY3ljbGVTeXN0ZW0gIkNvbnRhaW5lcnMiIHsKICAgICAgICAgICAgaW5jbHVkZSAqCiAgICAgICAgICAgIGluY2x1ZGUgcGxhdGZvcm1TeXN0ZW0KICAgICAgICAgICAgaW5jbHVkZSByZWdpc3RyeVN5c3RlbQogICAgICAgICAgICBpbmNsdWRlIGRhZW1vbkVuZ2luZQogICAgICAgIH0KCiAgICAgICAgc3R5bGVzIHsKICAgICAgICAgICAgZWxlbWVudCAic3RvcmFnZSIgewogICAgICAgICAgICAgICAgc2hhcGUgY3lsaW5kZXIKICAgICAgICAgICAgfQogICAgICAgIH0KCgogICAgICAgIHRoZW1lIGRlZmF1bHQKICAgIH0KCgp9Cg=="
+    "structurizr.dsl" : "d29ya3NwYWNlIHsKCiAgICBtb2RlbCB7CgogICAgICAgICMgUGVyc29uIGRlZmluaXRpb24KICAgICAgICBkZXZlbG9wZXIgPSBwZXJzb24gIkRldmVsb3BlciIgIkluZGl2aWR1YWwgdGhhdCBjcmVhdGVzIGEgc29mdHdhcmUgb3IgYXBwbGljYXRpb24iCiAgICAgICAgb3BlcmF0b3IgPSBwZXJzb24gIk9wZXJhdG9yIiAiSVQgUGVyc29uIHRoYXQgY3JlYXRlcyBidWlsZGVycyB0byBzdGFuZGFyaXplIGluZnJhZXN0cnVjdHVyZSBpbiBhIG9yZ2FuaXphdGlvbiIKICAgICAgICBidWlsZHBhY2tBdXRob3IgPSBwZXJzb24gIkJ1aWxkcGFjayBBdXRob3JzIiAiUGVyc29uIG9yIE9yZ2FuaXphdGlvbiBjcmVhdGluZyBhbmQgbWFudGFpbmluZyBidWlsZHBhY2tzIgoKICAgICAgICByZWdpc3RyeVN5c3RlbSA9IHNvZnR3YXJlU3lzdGVtICJPQ0kgUmVnaXN0cnkiICIiICJzdG9yYWdlIgogICAgICAgIGRhZW1vbkVuZ2luZSA9IHNvZnR3YXJlU3lzdGVtICJEYWVtb24iCiAgICAgICAgCiAgICAgICAgYnVpbGRwYWNrRW50ZXJwcmlzZSA9IGVudGVycHJpc2UgIkJ1aWxkcGFja3MuaW8iIHsKICAgICAgICAgICAgbGlmZWN5Y2xlU3lzdGVtID0gc29mdHdhcmVTeXN0ZW0gIkxpZmVjeWNsZSIgewogICAgICAgICAgICAgICAgIWRvY3MgZG9jcwoKICAgICAgICAgICAgICAgIGRldGVjdG9yQ29udGFpbmVyID0gY29udGFpbmVyICJkZXRlY3RvciIgImRlc2MiICJleGVjdXRhYmxlIiAicGhhc2UiCiAgICAgICAgICAgICAgICBhbmFseXplckNvbnRhaW5lciA9IGNvbnRhaW5lciAiYW5hbHl6ZXIiICJkZXNjIiAiZXhlY3V0YWJsZSIgInBoYXNlIgogICAgICAgICAgICAgICAgYnVpbGRlckNvbnRhaW5lciA9IGNvbnRhaW5lciAiYnVpbGRlciIgImRlc2MiICJleGVjdXRhYmxlIiAicGhhc2UiCiAgICAgICAgICAgICAgICBleHBvcnRlckNvbnRhaW5lciA9IGNvbnRhaW5lciAiZXhwb3J0ZXIiICJjcmVhdGVzIGEgbmV3IE9DSSBpbWFnZSB1c2luZyBhIGNvbWJpbmF0aW9uIG9mIHJlbW90ZSBsYXllcnMsIGxvY2FsIGxheWVycywgYW5kIHRoZSBhcHAgZGlyZWN0b3J5IiAiZXhlY3V0YWJsZSIgInBoYXNlIiB7CiAgICAgICAgICAgICAgICAgICAgLT4gcmVnaXN0cnlTeXN0ZW0gInB1c2gvcHVsbCBvY2kgaW1hZ2VzIHRvL2Zyb20iCiAgICAgICAgICAgICAgICAgICAgLT4gZGFlbW9uRW5naW5lICJwdXNoL3B1bGwgb2NpIGltYWdlcyB0by9mcm9tIgogICAgICAgICAgICAgICAgfQogICAgICAgICAgICB9ICAgCiAgICAgICAgICAgIGJ1aWxkZXJTeXN0ZW0gPSBzb2Z0d2FyZVN5c3RlbSAiQnVpbGRlciIKICAgICAgICAgICAgYnVpbGRwYWNrU3lzdGVtID0gc29mdHdhcmVTeXN0ZW0gIkJ1aWxkcGFjayIKICAgICAgICAgICAgcGxhdGZvcm1TeXN0ZW0gPSBzb2Z0d2FyZVN5c3RlbSAiUGxhdGZvcm0iIHsKICAgICAgICAgICAgICAgIC0+IGJ1aWxkZXJTeXN0ZW0gInJlYWRzIGFuZCBleHRyYWN0cyBsaWZlY3ljbGUgZXhlY3V0YWJsZSIKICAgICAgICAgICAgICAgIC0+IGxpZmVjeWNsZVN5c3RlbSAiZXhlY3V0ZXMgaXQgcHJvdmlkaW5nIHRoZSBhcHBsaWNhdGlvbiBzb3VyY2UgY29kZSBhbmQgcmV0cmlldmUgdGhlIG9jaSBpbWFnZSBsYXlvdXQgd2hlbiBpcyByZXF1aXJlZCIKICAgICAgICAgICAgICAgIC0+IGRldGVjdG9yQ29udGFpbmVyICJleGVjdXRlcyIKICAgICAgICAgICAgICAgIC0+IGFuYWx5emVyQ29udGFpbmVyICJleGVjdXRlcyIKICAgICAgICAgICAgICAgIC0+IGJ1aWxkZXJDb250YWluZXIgImV4ZWN1dGVzIgogICAgICAgICAgICAgICAgLT4gZXhwb3J0ZXJDb250YWluZXIgImV4ZWN1dGVzIgogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICAjIFBlcnNvbiByZWxhdGlvbnNoaXBzCiAgICAgICAgZGV2ZWxvcGVyIC0+IHBsYXRmb3JtU3lzdGVtICJwcm92aWRlcyBhcHBsaWNhdGlvbiBzb3VyY2UgY29kZSB0byBidWlsZCBhbiBPQ0kgaW1hZ2UiCiAgICAgICAgb3BlcmF0b3IgLT4gYnVpbGRlclN5c3RlbSAiY3JlYXRlcyBidWlsZGVycyBhbmQgc3RhY2tzIGFjY29yaWRuZyB0byBvcmdhbml6YXRpb24gbmVlZHMiCiAgICAgICAgYnVpbGRwYWNrQXV0aG9yIC0+IGJ1aWxkcGFja1N5c3RlbSAiY3JlYXRlcyBidWlsZHBhY2tzIGZvciBkaWZmZXJlbnQgcHJvZ3JhbW1pbmcgbGFuZ3VhZ2VzIChsaWtlIHBha2V0bykiCgogICAgICAgICMgbGlmZWN5Y2xlIHJlbGF0aW9uc2hpcHMKICAgICAgICBsaWZlY3ljbGVTeXN0ZW0gLT4gcmVnaXN0cnlTeXN0ZW0gInB1c2gvcHVsbCBvY2kgaW1hZ2VzIHRvL2Zyb20iCiAgICAgICAgbGlmZWN5Y2xlU3lzdGVtIC0+IGRhZW1vbkVuZ2luZSAicHVzaC9wdWxsIG9jaSBpbWFnZXMgdG8vZnJvbSIKCiAgICAgICAgIyBCdWlsZGVyIHJlbGF0aW9uc2hpcHMKICAgICAgICBidWlsZGVyU3lzdGVtIC0+IGxpZmVjeWNsZVN5c3RlbSAiY29udGFpbnMgYW4gaW1wbGVtZW50YXRpb24gb2YiCiAgICAgICAgYnVpbGRlclN5c3RlbSAtPiBidWlsZHBhY2tTeXN0ZW0gImNvbnRhaW5zIHNldmVyYWwiCgogICAgICAgICMgRGFlbW9ucyByZWxhdGlvbnNoaXBzCiAgICAgICAgZGFlbW9uRW5naW5lIC0+IHJlZ2lzdHJ5U3lzdGVtICJwdXNoL3B1bGwgdG8vZnJvbSIKICAgIH0KCgoKICAgIHZpZXdzIHsKCiAgICAgICAgc3lzdGVtTGFuZHNjYXBlICJTeXN0ZW0iIHsKICAgICAgICAgICAgaW5jbHVkZSAqCiAgICAgICAgICAgIGFuaW1hdGlvbiB7CgogICAgICAgICAgICB9CiAgICAgICAgfQoKICAgICAgICBjb250YWluZXIgbGlmZWN5Y2xlU3lzdGVtICJDb250YWluZXJzIiB7CiAgICAgICAgICAgIGluY2x1ZGUgKgogICAgICAgICAgICBpbmNsdWRlIHBsYXRmb3JtU3lzdGVtCiAgICAgICAgICAgIGluY2x1ZGUgcmVnaXN0cnlTeXN0ZW0KICAgICAgICAgICAgaW5jbHVkZSBkYWVtb25FbmdpbmUKICAgICAgICB9CgogICAgICAgIHN0eWxlcyB7CiAgICAgICAgICAgIGVsZW1lbnQgInN0b3JhZ2UiIHsKICAgICAgICAgICAgICAgIHNoYXBlIGN5bGluZGVyCiAgICAgICAgICAgIH0KICAgICAgICB9CgoKICAgICAgICB0aGVtZSBkZWZhdWx0CiAgICB9CgoKfQo="
   },
   "configuration" : { },
   "model" : {
@@ -14,16 +12,16 @@
       "name" : "Buildpacks.io"
     },
     "people" : [ {
-      "id" : "3",
+      "id" : "1",
       "tags" : "Element,Person",
-      "name" : "Buildpack Authors",
-      "description" : "Person or Organization creating and mantaining buildpacks",
+      "name" : "Developer",
+      "description" : "Individual that creates a software or application",
       "relationships" : [ {
-        "id" : "26",
+        "id" : "24",
         "tags" : "Relationship",
-        "sourceId" : "3",
-        "destinationId" : "16",
-        "description" : "creates buildpacks for different programming languages (like paketo)",
+        "sourceId" : "1",
+        "destinationId" : "17",
+        "description" : "provides application source code to build an OCI image",
         "defaultTags" : [ "Relationship" ]
       } ],
       "location" : "External",
@@ -44,37 +42,57 @@
       "location" : "External",
       "defaultTags" : [ "Element", "Person" ]
     }, {
-      "id" : "1",
+      "id" : "3",
       "tags" : "Element,Person",
-      "name" : "Developer",
-      "description" : "Individual that creates a software or application",
+      "name" : "Buildpack Authors",
+      "description" : "Person or Organization creating and mantaining buildpacks",
       "relationships" : [ {
-        "id" : "24",
+        "id" : "26",
         "tags" : "Relationship",
-        "sourceId" : "1",
-        "destinationId" : "17",
-        "description" : "provides application source code to build an OCI image",
+        "sourceId" : "3",
+        "destinationId" : "16",
+        "description" : "creates buildpacks for different programming languages (like paketo)",
         "defaultTags" : [ "Relationship" ]
       } ],
       "location" : "External",
       "defaultTags" : [ "Element", "Person" ]
     } ],
     "softwareSystems" : [ {
+      "id" : "4",
+      "tags" : "Element,Software System,storage",
+      "name" : "OCI Registry",
+      "location" : "External",
+      "defaultTags" : [ "Element", "Software System" ]
+    }, {
+      "id" : "5",
+      "tags" : "Element,Software System",
+      "name" : "Daemon",
+      "relationships" : [ {
+        "id" : "29",
+        "tags" : "Relationship",
+        "sourceId" : "5",
+        "destinationId" : "4",
+        "description" : "push/pull to/from",
+        "defaultTags" : [ "Relationship" ]
+      } ],
+      "location" : "External",
+      "defaultTags" : [ "Element", "Software System" ]
+    }, {
       "id" : "6",
       "tags" : "Element,Software System",
       "name" : "Lifecycle",
       "relationships" : [ {
-        "id" : "14",
-        "tags" : "Relationship",
-        "sourceId" : "6",
-        "destinationId" : "5",
-        "description" : "push/pull oci images to/from",
-        "defaultTags" : [ "Relationship" ]
-      }, {
         "id" : "12",
         "tags" : "Relationship",
         "sourceId" : "6",
         "destinationId" : "4",
+        "description" : "push/pull oci images to/from",
+        "defaultTags" : [ "Relationship" ]
+      }, {
+        "id" : "14",
+        "tags" : "Relationship",
+        "sourceId" : "6",
+        "destinationId" : "5",
         "description" : "push/pull oci images to/from",
         "defaultTags" : [ "Relationship" ]
       } ],
@@ -83,6 +101,20 @@
         "id" : "7",
         "tags" : "Element,Container,phase",
         "name" : "detector",
+        "description" : "desc",
+        "technology" : "executable",
+        "defaultTags" : [ "Element", "Container" ]
+      }, {
+        "id" : "8",
+        "tags" : "Element,Container,phase",
+        "name" : "analyzer",
+        "description" : "desc",
+        "technology" : "executable",
+        "defaultTags" : [ "Element", "Container" ]
+      }, {
+        "id" : "9",
+        "tags" : "Element,Container,phase",
+        "name" : "builder",
         "description" : "desc",
         "technology" : "executable",
         "defaultTags" : [ "Element", "Container" ]
@@ -108,82 +140,7 @@
         } ],
         "technology" : "executable",
         "defaultTags" : [ "Element", "Container" ]
-      }, {
-        "id" : "8",
-        "tags" : "Element,Container,phase",
-        "name" : "analyzer",
-        "description" : "desc",
-        "technology" : "executable",
-        "defaultTags" : [ "Element", "Container" ]
-      }, {
-        "id" : "9",
-        "tags" : "Element,Container,phase",
-        "name" : "builder",
-        "description" : "desc",
-        "technology" : "executable",
-        "defaultTags" : [ "Element", "Container" ]
       } ],
-      "defaultTags" : [ "Element", "Software System" ]
-    }, {
-      "id" : "4",
-      "tags" : "Element,Software System,storage",
-      "name" : "OCI Registry",
-      "location" : "External",
-      "defaultTags" : [ "Element", "Software System" ]
-    }, {
-      "id" : "17",
-      "tags" : "Element,Software System",
-      "name" : "Platform",
-      "relationships" : [ {
-        "id" : "21",
-        "tags" : "Relationship",
-        "sourceId" : "17",
-        "destinationId" : "8",
-        "description" : "executes",
-        "defaultTags" : [ "Relationship" ]
-      }, {
-        "id" : "18",
-        "tags" : "Relationship",
-        "sourceId" : "17",
-        "destinationId" : "15",
-        "description" : "reads and extracts lifecycle executable",
-        "defaultTags" : [ "Relationship" ]
-      }, {
-        "id" : "23",
-        "tags" : "Relationship",
-        "sourceId" : "17",
-        "destinationId" : "10",
-        "description" : "executes",
-        "defaultTags" : [ "Relationship" ]
-      }, {
-        "id" : "19",
-        "tags" : "Relationship",
-        "sourceId" : "17",
-        "destinationId" : "6",
-        "description" : "executes it providing the application source code and retrieve the oci image layout when is required",
-        "defaultTags" : [ "Relationship" ]
-      }, {
-        "id" : "20",
-        "tags" : "Relationship",
-        "sourceId" : "17",
-        "destinationId" : "7",
-        "description" : "executes",
-        "defaultTags" : [ "Relationship" ]
-      }, {
-        "id" : "22",
-        "tags" : "Relationship",
-        "sourceId" : "17",
-        "destinationId" : "9",
-        "description" : "executes",
-        "defaultTags" : [ "Relationship" ]
-      } ],
-      "location" : "Internal",
-      "defaultTags" : [ "Element", "Software System" ]
-    }, {
-      "id" : "16",
-      "tags" : "Element,Software System",
-      "name" : "Buildpack",
-      "location" : "Internal",
       "defaultTags" : [ "Element", "Software System" ]
     }, {
       "id" : "15",
@@ -207,22 +164,71 @@
       "location" : "Internal",
       "defaultTags" : [ "Element", "Software System" ]
     }, {
-      "id" : "5",
+      "id" : "16",
       "tags" : "Element,Software System",
-      "name" : "Daemon",
+      "name" : "Buildpack",
+      "location" : "Internal",
+      "defaultTags" : [ "Element", "Software System" ]
+    }, {
+      "id" : "17",
+      "tags" : "Element,Software System",
+      "name" : "Platform",
       "relationships" : [ {
-        "id" : "29",
+        "id" : "18",
         "tags" : "Relationship",
-        "sourceId" : "5",
-        "destinationId" : "4",
-        "description" : "push/pull to/from",
+        "sourceId" : "17",
+        "destinationId" : "15",
+        "description" : "reads and extracts lifecycle executable",
+        "defaultTags" : [ "Relationship" ]
+      }, {
+        "id" : "19",
+        "tags" : "Relationship",
+        "sourceId" : "17",
+        "destinationId" : "6",
+        "description" : "executes it providing the application source code and retrieve the oci image layout when is required",
+        "defaultTags" : [ "Relationship" ]
+      }, {
+        "id" : "20",
+        "tags" : "Relationship",
+        "sourceId" : "17",
+        "destinationId" : "7",
+        "description" : "executes",
+        "defaultTags" : [ "Relationship" ]
+      }, {
+        "id" : "21",
+        "tags" : "Relationship",
+        "sourceId" : "17",
+        "destinationId" : "8",
+        "description" : "executes",
+        "defaultTags" : [ "Relationship" ]
+      }, {
+        "id" : "22",
+        "tags" : "Relationship",
+        "sourceId" : "17",
+        "destinationId" : "9",
+        "description" : "executes",
+        "defaultTags" : [ "Relationship" ]
+      }, {
+        "id" : "23",
+        "tags" : "Relationship",
+        "sourceId" : "17",
+        "destinationId" : "10",
+        "description" : "executes",
         "defaultTags" : [ "Relationship" ]
       } ],
-      "location" : "External",
+      "location" : "Internal",
       "defaultTags" : [ "Element", "Software System" ]
     } ]
   },
-  "documentation" : { },
+  "documentation" : {
+    "sections" : [ {
+      "elementId" : "6",
+      "title" : "Context",
+      "order" : 1,
+      "format" : "Markdown",
+      "content" : "## Context\nHere is a cool documentation\n\n![](embed:System)"
+    } ]
+  },
   "views" : {
     "systemLandscapeViews" : [ {
       "key" : "System",

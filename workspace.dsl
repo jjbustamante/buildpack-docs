@@ -12,6 +12,8 @@ workspace {
         
         buildpackEnterprise = enterprise "Buildpacks.io" {
             lifecycleSystem = softwareSystem "Lifecycle" {
+                !docs docs
+
                 detectorContainer = container "detector" "desc" "executable" "phase"
                 analyzerContainer = container "analyzer" "desc" "executable" "phase"
                 builderContainer = container "builder" "desc" "executable" "phase"
